@@ -1,4 +1,4 @@
-# comp_tasks
+# comptasks
 
 > A Vue.js project
 
